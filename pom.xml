@@ -48,27 +48,21 @@
 	</distributionManagement>
 
 	<dependencies>
-		<dependency>
-			<groupId>ws.schild</groupId>
-			<artifactId>jave-core</artifactId>
-			<version>${schild.version}</version>
-		</dependency>
+<!--		<dependency>-->
+<!--			<groupId>ws.schild</groupId>-->
+<!--			<artifactId>jave-core</artifactId>-->
+<!--			<version>${schild.version}</version>-->
+<!--		</dependency>-->
 		<!-- Helps in executing the FFMPEG executor for Windows Based Machines -->
-		<dependency>
-			<groupId>ws.schild</groupId>
-			<artifactId>jave-nativebin-win64</artifactId>
-			<version>${schild.version}</version>
-		</dependency>
+<!--		<dependency>-->
+<!--			<groupId>ws.schild</groupId>-->
+<!--			<artifactId>jave-nativebin-win64</artifactId>-->
+<!--			<version>${schild.version}</version>-->
+<!--		</dependency>-->
 		<!-- For Linux Based Machines -->
 		<dependency>
 			<groupId>ws.schild</groupId>
 			<artifactId>jave-nativebin-linux-arm64</artifactId>
-			<version>${schild.version}</version>
-		</dependency>
-		<!-- For MAC based Machines -->
-		<dependency>
-			<groupId>ws.schild</groupId>
-			<artifactId>jave-nativebin-osx64</artifactId>
 			<version>${schild.version}</version>
 		</dependency>
 		<dependency>
