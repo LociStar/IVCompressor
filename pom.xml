@@ -62,7 +62,7 @@
 		<!-- For Linux Based Machines -->
 		<dependency>
 			<groupId>ws.schild</groupId>
-			<artifactId>jave-nativebin-linux-arm32</artifactId>
+			<artifactId>jave-nativebin-linux-arm64</artifactId>
 			<version>${schild.version}</version>
 		</dependency>
 		<!-- For MAC based Machines -->
